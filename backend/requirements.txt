@@ -4,3 +4,4 @@ transformers
 sentence-transformers
 faiss-cpu
 nltk
+streamlit==1.31.0
