@@ -1,4 +1,4 @@
-import streamlit as st
+ionimport streamlit as st
 import requests
 import json
 from typing import List
@@ -48,9 +48,9 @@ def main():
     # Input container
     with st.container():
         user_input = st.text_input(
-            "Your message:",
+            "Your question:",
             key="user_input",
-            placeholder="Type your message here...",
+            placeholder="Type your question here...",
         )
         
         # Send button column
@@ -89,7 +89,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center'>
-        <p>Built with Streamlit and FastAPI</p>
+        <p>Built by PICT MUN</p>
     </div>
     """, unsafe_allow_html=True)
 
