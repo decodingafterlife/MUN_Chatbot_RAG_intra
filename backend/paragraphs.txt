@@ -1,1 +1,106 @@
-add para for testing
+INTRA STUDY GUIDE
+
+
+What is an MUN?
+An MUN (Model United Nations) is an event where students (called delegates) act as representatives of different countries. They join groups called committees to talk about important global problems, share their country's views, and work together to come up with solutions. It's a fun way to learn about world issues, improve speaking and teamwork skills, and understand how international decisions are made!
+
+The flow of debate-
+In a MUN, the flow of debate is structured to balance formal discussions and informal collaboration. The debate typically begins with the General Speakers List (GSL), where delegates give prepared speeches to introduce their country’s stance on the topic. This sets the stage for the discussions to follow. After the GSL, the committee may move into a Moderated Caucus, a more focused session where delegates discuss specific subtopics under the guidance of the Chair. Here, speaking time is shorter, and the debate is faster-paced.  
+
+An opening statement is the first formal speech delivered at the beginning of a meeting, debate, or discussion, in AIPPM instead of GSL like in the UN Committees where a speaker introduces their position, goals, and key points of focus. It sets the tone for the conversation and provides context for the rest of the proceedings. Opening statements are used to clearly outline a country's, or party's stance on the agenda or issues at hand.
+
+Sometimes, the committee transitions into an Unmoderated Caucus, where the formal structure is set aside. Delegates can move around, form alliances, and negotiate freely to draft working papers or resolutions. These sessions are crucial for collaboration and deal-making. Throughout, the balance between formal sessions and informal interactions helps ensure productive and engaging discussions.
+
+Verbatim for MUN Debate Procedures
+
+Moderated Caucus
+"The Delegate of _(country name)_ would like to suspend formal debate and move into a Moderated Caucus on the subtopic _(insert subtopic)_ for a total time of _(insert total time)_ with individual speaker time of _(insert speaker time)_."  
+
+
+
+
+Unmoderated Caucus
+"The Delegate of _(country name)_ would like to suspend formal debate and move into an Unmoderated Caucus for a total time of _(insert total time)_."  
+
+These phrases propose transitions between different debate formats during the conference.
+
+What is Yield?
+Yields are used in the  General Speakers List (GSL)  when a delegate has time remaining after their speech. They can choose to "yield" their remaining time in one of the following ways:  
+
+1.  Yield to Questions   
+   - The delegate allows other delegates to ask questions about their speech.  
+   - The Chair moderates the Q&A session, ensuring it stays within the time limit.  
+
+2.  Yield to Comments   
+   - The delegate allows another delegate to briefly comment on their speech.  
+   - This is usually related to the topic discussed.  
+
+3.  Yield to Another Delegate   
+   - The delegate transfers their remaining time to a specific delegate, who can then use it to continue the discussion.  
+
+4.  Yield to the Chair   
+   - The delegate hands over the remaining time to the Chair.  
+   - This ends their speech and moves the debate forward.  
+
+Yields add structure to the GSL and allow for dynamic interaction between delegates!
+
+What are Points?
+Points are tools used by delegates to address issues or seek clarifications during a debate. Here’s a breakdown of the common ones:  
+
+1.   Point of Personal Privilege    
+   - Used when a delegate experiences discomfort or cannot participate effectively due to external factors.  
+   - Example: "Point of Personal Privilege: The delegate cannot hear the speaker clearly."  
+
+2.   Point of Information    
+   - Raised to ask a question to the speaker, usually during the Q&A session after a speech.  
+   - Example: "Point of Information: Could the delegate clarify their country’s stance on the subtopic?"  
+
+3.   Point of Order    
+   - Used to highlight procedural errors or violations of MUN rules.  
+   - Example: "Point of Order: The speaker has exceeded their allotted time."  
+
+4.   Point of Inquiry    
+   - Raised to ask the Chair a question about the rules or the proceedings.  
+   - Example: "Point of Inquiry: Could the Chair clarify the process for introducing amendments?"  
+
+These points ensure that the debate runs smoothly and allow delegates to actively participate and resolve issues.
+
+What are the special motions?
+In MUN, special motions address unique scenarios that arise during debate and ensure fair proceedings. 
+The  Right to Reply is used when a delegate feels their country or position has been directly insulted during another’s speech. If granted by the Chair, the delegate can make a brief rebuttal. The  Question & Answer Session allows delegates to ask specific questions to a speaker under the Chair’s moderation, fostering clarity and engagement.
+ A Presidential Statement is issued by the Chair to provide guidance, make announcements, or address procedural concerns, ensuring the committee stays on track. 
+Lastly, a  Challenge can be raised if a delegate disputes a decision made by the Chair. This motion is briefly debated, and the committee votes to uphold or overturn the Chair’s ruling. 
+
+These motions add depth and flexibility to the debate, ensuring it remains orderly and inclusive.
+
+
+What to research?
+Researching the committee is a vital part of preparing for an MUN conference. It involves understanding the composition of the committee, which means knowing the countries or organizations that are part of it, their roles, and how much influence they hold. For example, in the United Nations Security Council, the permanent members have veto power, which significantly impacts decision-making. Equally important is the mandate of the committee   —the specific issues the committee is responsible for addressing and the actions it can take. Some committees, like the Human Rights Council, focus on global human rights concerns, while others, like the Security Council, may have more direct enforcement powers. Lastly, researching resolutions drafted by the committee provides insight into past decisions and precedents that could guide current debates. By studying these, delegates can understand how the committee has previously handled issues similar to those on the agenda and align their positions accordingly. Overall, thorough committee research ensures delegates are equipped with the knowledge needed to contribute effectively, represent their country’s interests, and work within the committee's established framework.
+
+
+Country Research
+When preparing for a MUN, country research is essential for understanding the nation you're representing. This starts with gathering basic facts, such as the country’s geographical location, economy, military capabilities, and key resources. 
+Knowing the economic strengths, trade partnerships, and military alliances helps shape your country's position on global issues. Next, research major events in the past and present, such as historical conflicts, key alliances, or economic crises, as these will influence the country’s current stance. 
+Understanding the government structure—whether it's a democracy, monarchy, or dictatorship—helps determine decision-making processes. Foreign policy research is crucial, as it reveals your country’s relationships with other nations, its stance on international conflicts, and how it engages in global diplomacy.
+ Lastly, understanding major treaties signed by your country, particularly those related to the agenda, is vital to crafting your nation’s position on the current issues being debated.
+
+Agenda Research
+
+In addition to country research, agenda research is key to effectively participating in a MUN. Begin by studying the basic definitions of the agenda items to ensure you understand the terminology and scope of the issues. 
+Then, explore your country’s stand on the agenda, including any official statements, past votes, or participation in relevant international organizations. Looking into past events related to the agenda, such as international conflicts, resolutions, or decisions, provides context to the issue at hand.
+ Investigate treaties and conventions related to the agenda, such as the Paris Agreement for climate change, to see how past agreements have shaped the current debate. Don’t forget to look at failed efforts to address the agenda in the past, as these can offer lessons on what has not worked and why. 
+Finally, analyze the cause-effect-solution framework: identify the causes of the issue, understand its effects on global systems, and propose feasible solutions. By combining country and agenda research, delegates can formulate informed and strategic positions, ensuring effective participation in the conference.
+
+
+What sources to use for research?
+In MUN, the credibility of sources is crucial to ensuring the information you present is reliable and trustworthy. A few credible sources include:
+
+- Reuters: A respected global news agency that provides unbiased, fact-checked news on international affairs.
+- Amnesty International: A renowned non-governmental organization focused on human rights, providing authoritative reports and data on various global issues.
+- Official UN Websites and Documents: These sources provide up-to-date, accurate, and authoritative information on resolutions, declarations, and reports issued by the United Nations.
+- Government Websites (.gov): These sites often contain official statements, policies, and data from governments, providing a reliable basis for understanding a country's stance on various issues.
+
+Using credible sources ensures that your arguments are grounded in well-researched facts, lending legitimacy to your position during the debate.
+
+Disciplinary Rules
+Maintaining discipline during MUN is essential to ensure the debate remains respectful and structured. One key aspect of discipline is language. Participants are expected to maintain a parliamentary tone at all times, which means using formal, respectful, and diplomatic language when speaking. This helps foster constructive dialogue and ensures that all delegates are treated with respect. The use of abusive language is strictly prohibited, as it undermines the integrity of the debate and the respectful atmosphere of the conference. Adhering to these language guidelines helps create a professional and positive environment for all delegates.
