@@ -29,10 +29,9 @@ def main():
     initialize_session_state()
     
     # Header
-    st.title("🤖 RAG-Powered Chatbot")
+    st.title("🤖 PICT MUN ChatBot")
     st.markdown("""
-    This chatbot uses RAG (Retrieval-Augmented Generation) to provide informative responses 
-    based on the available knowledge base.
+    You ask any question related to the proceedings.
     """)
     
     # Chat container
